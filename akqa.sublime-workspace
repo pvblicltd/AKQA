@@ -1,0 +1,658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"z",
+				"zIndex"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"widget",
+				"widget_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wind",
+				"windW"
+			],
+			[
+				"para",
+				"parallax"
+			],
+			[
+				"BACK",
+				"background-position"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"local",
+				"localscroll"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 389.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install Package LESS",
+			"install package less",
+			"Install Package SCSS",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/templates/page-middle-scrllr.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/activity-scroller.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/js/activityScroller.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/nwstg-error_log",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/js/slick-master/slick/slick.css",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/templates/footer.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/join-in.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/wordpress.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/scripts.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/functions.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/county_find/county_find_directory_page.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/footer.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/andomise/wp-content/themes/andomise/benefits.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Downloads/PostCoderWebv3JavaScriptExamples/address.html",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/buddypress/bp-xprofile/bp-xprofile-functions.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/postcode_find_and_replace/postcode_find_and_replace.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/joinin_county_find_and_add/joinin_county_find_and_add.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/templates/page-middle-ctas.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/template-volunteers-landing.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/js/vol-home.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/andomise/wp-content/themes/andomise/sections.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/templates/header-top-navbar.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/templates/content-blog.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/nav.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/search-widget-functions.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/back-end-lib/js/widgetStats.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/back-end-lib/js/dashStats.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/scramboo/wp-content/themes/scramboo/template-parallax.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/scramboo/wp-content/themes/scramboo/scss/config/_settings.scss",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/scramboo/wp-content/themes/scramboo/js/skrollr/skrollr.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/cmb_human/init.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/meta-boxes.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/search-widget-api-controller.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/front-end-lib/js/widget_form.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/vendor/chosen/chosen.css",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/loader.v.1.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/cmb_old/init.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/cmb_old/example-functions.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/loader.v.1_no_frame.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/joinin_cmb_init_boxes.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/geo-my-wp/includes/geo-my-wp-geocode.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/geo-my-wp/geo-my-wp.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/geo-my-wp/js/gmw.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/geo-my-wp/js/autocomplete-front.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/gravity-forms-geo-fields/assets/js/gf.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/geo-my-wp/js/jquery.ui.addresspicker.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/buddypress/members/single/profile/profile-loop.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/big60/wp-content/plugins/js_composer/js_composer.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/big60/wp-content/themes/bridge/img/logo_black.png",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/big60/wp-config.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/buddypress/members/single/member-header.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Downloads/joinin/20140530-final-phase1-flats-with-enhancements/enhancements.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/custom.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/js/join-in.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app/joinin.search.widget.css",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/header.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/loader.v.1.iframe_good.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/andomise/wp-content/plugins/advanced-custom-fields/lang/acf-es_ES.mo",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/andomise/wp-includes/feed-atom-comments.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/andomise/wp-includes/feed-atom.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/andomise/wp-admin/freedoms.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-includes/SimplePie/Parser.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/plugins/gravityformsuserregistration/includes/pending_activations.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/sr/package.json",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/back-end-lib/vendor/extras.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/back-end-lib/css/widget_stats.css",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/loader/js/main.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/loader/js/utils.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app/js/app.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/loader/js/loader.script.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/loader/js/require.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/vendor/jquery.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/dist/release/js/app.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/widget_stats.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-includes/js/wp-backbone.min.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-includes/js/wp-backbone.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/loader/dist/widget.load.v1.default.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/mu-plugins/syntaxhighlighter.php ",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/cmb/init.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app/js/widget.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app/js/widget_iframe_dev.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/global.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app/js/inner_widget.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less/widgets.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/cmb/js/cmb.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/reef/wp-config.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/reef/wp-content/themes/reef/template-video.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/reef/wp-content/themes/reef/streaming_player/lib/video.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/reef/.htaccess",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/reef/.gitignore",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/reef/index.html",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/vendor/chosen/chosen.jquery.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/css/join-in.css",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/vendor/chosen.jquery.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/vendor/chosen/chosen.jquery.min.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/loader/js/config.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/.htaccess",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app/js/config.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/package.json",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/joinin.search.load.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/require.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search-widget-functions.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search-widget-api-controller.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/mu-plugins/json-api.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/config.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/template-widget-creator.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/templates/page-widget-builder.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/.gitignore",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-config.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/cmb/example-functions.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/wp-content/themes/feeding-hungry-minds/lib/custom-post-types.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/.gitignore",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/wp-content/themes/pragamatic_foundation/scss/config/_settings.scss",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/nwstg-error_log",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/wp-content/themes/feeding-hungry-minds/lib/styles-scripts.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/wp-content/themes/feeding-hungry-minds/less/style.less",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/wp-content/themes/feeding-hungry-minds/package.json",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/wp-content/themes/feeding-hungry-minds/Gruntfile.js",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/fhm/index.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/template-services-home.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/template-contact.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/template-parallax.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/template-our-reach.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/library/enqueue-scripts.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/footer.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/template-service.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/template-clients.php",
+		"/Volumes/Macintosh HD/Users/jamesgray/Sites/yjpr/wp-content/themes/yjpr/js/parallax-template.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/assets/less",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/joinin/",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/cmb_old",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/big60",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin",
+			"",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app/js",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/app",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib/loader/js",
+			"/Volumes/Macintosh HD/Users/jamesgray/Sites/joinin/wp-content/themes/joinin/lib/search_widget/lib",
+			"",
+			"join,<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"search-opps",
+			"tweets-list-container",
+			"pagenow",
+			"margin-top: -3px;",
+			"inspired",
+			"?>\n",
+			"xprofile_insert_field",
+			"call-to-action",
+			"widget_cmb_meta_boxes_init",
+			"pw_widget_cmb_meta_boxes_init",
+			"margin",
+			".side-nav",
+			"roots_sidebar_path",
+			"gform_confirmation_message",
+			";\n",
+			"off canvas",
+			";\n",
+			"   \n",
+			"memory",
+			"chosen-drop",
+			"set_mb_defaults",
+			"cmb_metabox_form",
+			"checkbox",
+			"multicheck",
+			"radio",
+			"show_on",
+			"cmb",
+			"console",
+			"ginput_container",
+			"change",
+			"Geocoder",
+			"change",
+			"isotope.pkgd.min.js",
+			"js_composer_front",
+			"logo_wrapper",
+			"logo_black.png",
+			"QODE_ROOT",
+			"logo_black.png",
+			"club-details",
+			"search_results_post_meta",
+			"joinin_gmw_search_results_list",
+			"social-media",
+			"sharrre",
+			"template_notices",
+			"bp_before_profile_loop_content",
+			"item-header",
+			"Searches",
+			"WHERE",
+			"variables",
+			"widgetGlobals",
+			"tbody",
+			">\n",
+			"loadScriptEmbeds",
+			"keys",
+			"script_tag",
+			"boo",
+			"Widget",
+			"require.config",
+			"backbone",
+			"Backbone",
+			"backbone",
+			"base",
+			"console.log(t)",
+			"console.log",
+			"cmb_metabox_form",
+			"url(",
+			"CHOSEN-CHOICES",
+			".joinInContainerXXB ",
+			"#widget-builder-cont",
+			"cmb-multicheck-toggle",
+			"Scripts",
+			"chosen",
+			"rightcol",
+			"\">\\\n",
+			"htaccess",
+			"true",
+			"reefstream",
+			"streaming-video",
+			"variabl",
+			"search_container",
+			"search-field",
+			"chosen-choices",
+			"../font/",
+			"size",
+			"chosen",
+			"search_table",
+			";\n",
+			"og-close",
+			"ID",
+			".pageHero",
+			".pageHero h1",
+			"pageHero",
+			"name",
+			"pageHero",
+			"extend",
+			"etxend",
+			"top-bar-container",
+			"NeoTechStd-Bold",
+			"NeoTechStd-Medium",
+			"e75024",
+			"clearBut",
+			"icon",
+			"tab-bar",
+			"medium",
+			"socialLinks",
+			"form",
+			"paraCol",
+			"navigation",
+			"label",
+			"RGFormsModel",
+			"<?=",
+			"TEST",
+			"foundationPress_top_bar_l"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"../../../../assets/font/",
+			"FranklinGothic-Book",
+			"ffc214",
+			"<?php echo "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "akqa.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 637.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
