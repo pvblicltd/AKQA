@@ -8,6 +8,8 @@
     "grunt-contrib-uglify": "~0.2.7",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-sass": "~0.8.0",
+    "grunt-contrib-imagemin": "~0.8.1",
+    "grunt-html-build": "~0.3.2",
     "intern": "^2.1.0",
     "node-sass": "~0.7.0"
   }

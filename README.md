@@ -20,3 +20,5 @@ How I complted the test:
 
 5. Ran npm install and pushed the node modules to git (I normally would not push the node modules to git however for the sake of transparency I have done).
 
+6. Created the Gruntfile and set up the build and watch processes. This includes image compression, js uglify and SCSS compression as well as building the final HTMl dist file. Will add the tests later.
+
