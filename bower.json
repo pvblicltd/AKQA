@@ -1,0 +1,10 @@
+{
+  "name": "AKQA-TEST",
+  "version": "0.0.1",
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "jquery": "~1.11.0",
+    "jquery-migrate": "~1.2.1"
+  },
+  "private": true 
+}
