@@ -22,3 +22,5 @@ How I complted the test:
 
 6. Created the Gruntfile and set up the build and watch processes. This includes image compression, js uglify and SCSS compression as well as building the final HTMl dist file. Will add the tests later.
 
+7. Created the initial index.html template and scss structure and 12 col grid (this will need a gutterless option looking at the layout).
+

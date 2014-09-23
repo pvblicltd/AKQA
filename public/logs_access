@@ -1,0 +1,4 @@
+localhost - - [23/Sep/2014:19:10:25 +0100] "GET / HTTP/1.1" 200 262
+localhost - - [23/Sep/2014:19:10:25 +0100] "GET /assets/css/AKQA-TEST.css HTTP/1.1" 200 -
+localhost - - [23/Sep/2014:19:10:25 +0100] "GET /assets/js/AKQA-TEST.min.js HTTP/1.1" 200 114739
+localhost - - [23/Sep/2014:19:10:27 +0100] "GET /favicon.ico HTTP/1.1" 404 209
