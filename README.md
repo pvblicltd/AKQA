@@ -6,7 +6,7 @@ By James A B Gray
 23rd September 2014  
 
 
-How I complted the test:  
+How I completed the test:  
 
 1. Created a repo on github and set up remote origin.
 
