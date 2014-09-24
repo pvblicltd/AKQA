@@ -24,5 +24,30 @@ How I complted the test:
 
 7. Created the initial index.html template, scss structure and 12 col grid (this will need a gutterless option looking at the layout).
 
+8. Completed basic 12 col grid and applied, have added a meadia query breakpoint and began a mobile view.
+
+9. For accessability I am using fieldsets, labels and inputs for the cart information, fo just the information ipututs these are disbaled. All form actions have fake urls that will work if Javascript is turned off.
+
+
+To do:
+
+1. Correct page meta tags  
+2. Complete the cart styling and layout  
+3. Add the javscript/jquery for the form actions
+4. Write the tests utilising intern.js and browser stack & grunt 
+5. Run the tests  
+6. Debug  
+
+
+File Structure explantion
+
+- public/ * Where grunt outpust the distribution code (grunt build)
+
+- src/ * Where dev takes place thsi inculdes the uncompress js and scsss
+
+- tests/ * to be completed
+
+
+
 
 
