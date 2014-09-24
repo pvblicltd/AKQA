@@ -30,7 +30,7 @@
                         <p>Items you have added to your basket are shown below.
                             <br/>Adjust the quantities or remove items before continuing your purchase.
                         </p>
-                        <form id="buy_form">
+                        <form id="buy_form" action="buy_products.php">
                             <div class="row group hide-for-small">
                                 <div class="col span_3_of_12">
                                     <h2>Product</h2>
@@ -41,23 +41,48 @@
                                 <div class="col span_1_of_12 text-center">
                                     <h2>Qty</h2>
                                 </div>
-                                <div class="col span_1_of_12 text-center">
+                                <div class="col span_1_of_12 text-right">
                                     <h2>Cost</h2>
                                 </div>
                             </div>
                             <div class="off_grid_cont">
-                                <fieldset>
-
-                                </fieldset>
+                                <!-- Product -->
+                                <fieldset data-id="1">
+                                    <legend>Cotton T-Shirt, Medium</legend>
+                                    <div class="row group">
+                                        <div class="col span_3_of_12">
+                                            <label for="product_name">Product Description</label>
+                                            <input class="product_text" type="text" id="product_name" name="product_name" value="Cotton T-Shirt, Medium" disabled="disbaled" />
+                                        </div>
+                                        <div class="col span_1_of_12 text-right">
+                                            <label for="product_price">Product Price</label>
+                                            <input class="product_text" type="text" id="product_price" name="product_price" value="&#8356; 1.99" disabled="disbaled" />
+                                        </div>
+                                        <div class="col span_1_of_12 text-center">
+                                            <label for="product_quantity">Product Quantity</label>
+                                            <input class="product_quantity" type="text" id="product_quantity" name="product_quantity" value="1" />
+                                            <a id="add_one" href="add_one_product.php?product_id=1&current_qty=1" title="Increase product quantity by 1<">+<a/>
+                                    <a id="remove_one" href="remove_one_product.php?product_id=1&current_qty=1" title="Decrease product quantity by 1">-<a/>
+                                </div>
+                                <div class="col span_1_of_12 text-right">
+                                    <label for="product_sub_total">Product Sub Total</label>
+                                    <input class="product_text" type="text" id="product_sub_total" name="product_sub_total"  value="&#8356; 1.99" disabled="disbaled" />
+                                </div>
+                                
                             </div>
-                        </form>
+                        </fieldset>
+                        <!-- Product -->
+                        <fieldset data-id="1">
+                            <legend>Cotton T-Shirt, Medium</legend>
+                        </fieldset>
                     </div>
-                </div>
+                </form>
             </div>
-            <!-- Footer content -->
-            <footer>
-
-            </footer>
+        </div>
+    </div>
+    <!-- Footer content -->
+    <footer>
+    
+    </footer>
 </body>
-
 </html>

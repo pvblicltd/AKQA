@@ -40,3 +40,8 @@ localhost - - [24/Sep/2014:00:52:40 +0100] "GET / HTTP/1.1" 304 -
 localhost - - [24/Sep/2014:00:52:40 +0100] "GET /assets/css/AKQA-CART.css HTTP/1.1" 304 -
 localhost - - [24/Sep/2014:00:52:40 +0100] "GET /assets/js/AKQA-CART.min.js HTTP/1.1" 304 -
 localhost - - [24/Sep/2014:00:52:40 +0100] "GET /assets/img/AKQA_logo.png HTTP/1.1" 304 -
+localhost - - [24/Sep/2014:09:49:28 +0100] "GET / HTTP/1.1" 304 -
+localhost - - [24/Sep/2014:09:49:29 +0100] "GET /assets/css/AKQA-CART.css HTTP/1.1" 304 -
+localhost - - [24/Sep/2014:09:49:29 +0100] "GET /assets/js/AKQA-CART.min.js HTTP/1.1" 304 -
+localhost - - [24/Sep/2014:09:49:29 +0100] "GET /assets/img/AKQA_logo.png HTTP/1.1" 304 -
+localhost - - [24/Sep/2014:09:49:30 +0100] "GET /favicon.ico HTTP/1.1" 404 209
