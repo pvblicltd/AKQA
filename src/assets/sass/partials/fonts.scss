@@ -13,3 +13,21 @@ $base-serif-font-family: 'Droid Serif', serif;
 $base-font-weight: $regular;
 $base-font-size: 13px;
 $base-line-height: 1.4;
+
+// headings
+
+$heading-colour: #000000;
+
+// Align
+
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}

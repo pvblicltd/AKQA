@@ -1,0 +1,76 @@
+#cart_container {
+	margin-top: 90px;
+
+	#buy_form {
+		margin-top: 70px;
+	}
+
+	h1 {
+		margin: 0px;
+		padding: 0px;
+		font-size: 30px;
+		font-family: $base-serif-font-family;
+		color: $heading-colour;
+	}
+
+	h2 {
+		margin: 0px;
+		padding: 0px;
+		font-size: 18px;
+		font-family: $base-serif-font-family;
+		color: $heading-colour;
+	}
+
+	p {
+		margin: 20px 0 0 0;
+		padding: 0px;
+		font-size: 13.2px;
+		font-family: $base-serif-font-family;
+		color: $heading-colour;
+	}
+
+	// A little bit hacky but then agian so is this layout!
+	.off_grid_cont {
+		position: relative;
+		width: 500px;
+		border-top: solid 1px #000;
+		left: -20px;
+		top: -2px;
+		padding-top: 10px;
+
+		fieldset {
+			border: 0;
+			padding: 10px 20px;
+			position: relative;
+			margin: 0px;
+			overflow: hidden;
+
+			legend {
+				position: absolute;
+				left: -900px;
+			}
+
+			label {
+				position: absolute;
+				left: -900px;
+			}
+		}
+		fieldset:hover {
+			background: #dddddd;
+		}
+	}
+}
+
+@media only screen and (max-width: 590px) {
+	#cart_container {
+		.off_grid_cont {
+			position: relative;
+			width: 100%;
+			left: 0px;
+			top: 0px;
+			border-top: solid 1px #000;
+			padding-top: 10px;
+
+		}
+	}
+}

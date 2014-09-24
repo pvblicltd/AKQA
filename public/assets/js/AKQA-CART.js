@@ -1414,5 +1414,5 @@ window.Modernizr = (function( window, document, undefined ) {
 
 $.noConflict();
 jQuery(document).ready(function($) {
-	alert('balls');
+	
 });
