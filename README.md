@@ -26,7 +26,7 @@ How I completed the test:
 
 8. Completed basic 12 col grid and applied, have added a meadia query breakpoint and began a mobile view.
 
-9. For accessability I am using fieldsets, labels and inputs for the cart information, fo just the information ipututs these are disbaled. All form actions have fake urls that will work if Javascript is turned off.
+9. For accessability I am using fieldsets, labels and inputs for the cart information, the inputs that have no intercation are disabled. All form actions have fake urls that would work if Javascript is turned off.
 
 
 To do:
